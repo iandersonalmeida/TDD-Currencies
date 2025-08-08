@@ -9,6 +9,7 @@ import java.util.regex.Pattern;
  */
 public class Currency {
 
+
     /* Regex to validate symbols:
      * From the class of uppercase letters A-Z, expect exactly 3
      *
